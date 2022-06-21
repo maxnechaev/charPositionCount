@@ -1,0 +1,19 @@
+{
+  "name": "charpositioncount",
+  "version": "1.0.0",
+  "description": "Small utility that highlights a character at entered index in the entered text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maxim Nechaev",
+  "license": "ISC",
+  "type": "module",
+  "lib": [
+    "es6"
+  ],
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "figlet": "^1.5.2"
+  }
+}
